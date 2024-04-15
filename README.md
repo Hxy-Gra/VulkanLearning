@@ -3,7 +3,7 @@ Vulkan learing code record
 
 ## 1 编译项目
 进入 0X_XXXXXXXX 文件夹
-执行以下指令：
+并运行以下命令：
 ```
 mkdir build
 cd build
